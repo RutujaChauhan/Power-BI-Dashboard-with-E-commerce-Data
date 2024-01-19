@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-with-E-commerce-Data-Olist-data
+# Power-BI-Dashboard-with-E-commerce-Data
 ## eCommerce Dashboard - Front Page
 ![image](https://github.com/RutujaChauhan/Power-BI-Dashboard-with-E-commerce-Data/assets/95647723/d4679be8-335f-49fc-80d5-4534cec47c1d)
 
